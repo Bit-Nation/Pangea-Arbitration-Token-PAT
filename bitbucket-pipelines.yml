@@ -1,0 +1,12 @@
+image:
+  name: mikhailvladimirov/build-environment
+  username: $USERNAME
+  password: $PASSWORD
+  email: $EMAIL
+
+pipelines:
+  default:
+    - step:
+        script:
+          - cp build.properties.sample build.properties
+          - ant clean clean-data test
