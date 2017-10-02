@@ -8,4 +8,15 @@ The distribution mechanism for PAT tokens on Pangea is an autonomous agent, Lucy
 
 Abstract: The Pangea Software is a Decentralized Opt-In Jurisdiction where Citizens can conduct peer-to-peer arbitration and create Nations. Pangea uses the Panthalassa mesh, which is built using Secure Scuttlebutt (SSB) and Interplanetary File System (IPFS) protocols. This enables Pangea to be highly resilient and secure, conferring resistance to emergent threats such as high-performance quantum cryptography. Pangea is blockchain agnostic, but uses the Ethereum blockchain for the time being. In the future, other chains such as Bitcoin, EOS and Tezos can be integrated with Pangea. 
 
+----
+
+For more information, please see: 
+
+* [BITNATION Pangea Whitepaper 2017](https://github.com/Bit-Nation/Pangea-Docs/blob/master/BITNATION%20Pangea%20Whitepaper%202017.pdf)
+* [Pangea Token Sale Announcement](https://github.com/Bit-Nation/Pangea-Arbitration-Token-PAT/blob/master/BITNATION%20Token%20Sale%20Announcement%202017.pdf)
+* [Pangea Token Sale Website](https://tse.bitnation.co/)
+* [Additional Documentation](https://github.com/Bit-Nation/Pangea-Docs)
+
+
+
 ---
